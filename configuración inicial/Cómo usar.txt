@@ -1,0 +1,17 @@
+1 - Descomprimir sourcemod
+2 - Descomprimir metamod en la misma carpeta donde se descomprimió sourcemod
+3 - Reemplazar el metamod.vdf de la carpeta addons/ con el metamod.vdf que se encuentra junto con los zips.
+4 - Copiar las carpetas nuevas (cfg y addons) y pegarlas dentro de la carpeta left4dead2 del juego.
+5 - Desde Steam, agregar el parámetro de lanzamiento -insecure en el juego.
+6 - Hacerse admin en sourcemod. Para eso, editar el archivo admins_simple.ini ubicado en sourcemod/configs y agregar al final esta línea.
+
+"Steam id"		"99:z"
+
+El Steam id se puede obtener yendo al perfil de tu usuario en steam, haciendo click derecho, eligiendo la opción de copiar url e introducirla en la página
+https://steamid.xyz
+
+7 - Para jugar una partida con amigos, siempre utilizar un servidor local
+
+La información se puede obtener mediante estos videos:
+https://www.youtube.com/watch?v=1Ek5NYyxrcs
+https://www.youtube.com/watch?v=WcEcYLi7CDc

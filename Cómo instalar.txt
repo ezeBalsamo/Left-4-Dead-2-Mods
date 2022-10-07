@@ -1,0 +1,4 @@
+1 - Arrancar por configuración inicial. Leer el archivo como "usar.txt".
+2 - Abrir el juego, entrar a una partida en solitario y cerrar. No es necesario jugar el nivel, es simplemente para que se creen algunos archivos de configuración.
+3 - Ir a la carpeta "steam workshop mods" e instalarlos.
+4 - Ir a la carpeta "non steam mods" e instalarlos.
